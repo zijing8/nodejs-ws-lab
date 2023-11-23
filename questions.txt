@@ -1,0 +1,8 @@
+Question 1: What do you see in the browser? When you open another tab and perform a click/drag action, what happens?
+I see a rabbit on a black background, you can click and drag the rabbit to move it. When I open another tab and perferm a click/drag action the bunny's location is shared.
+
+Question 2: What are some of the differences between TypeScript and JavaScript?
+TypeScript is known as OOP language, while JavaScript is a prototype-based language. TypeScript support interface but JavaScript can't.
+
+
+Question 3: Why is a web application bundler (Parcel, Webpack, Rollup, etc.) useful for modern web projects? What are some features that ParcelJS provides?
